@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc468aed-3a82-4454-844e-e97799d883f8" name="Default Changelist" comment="" />
+    <list default="true" id="bc468aed-3a82-4454-844e-e97799d883f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-stream/kafka-stream.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-stream/kafkastream.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-stream/src/main/java/com/github/aman/kafkaStream/KafkaStream.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Kafka-basics/target/" />
@@ -31,11 +38,70 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kafka-twitter-consumer/src/main/java/com/github/aman/kafka/twitter/ElasticSearchConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kafka-stream/src/main/java/com.github.aman.kafkaStream/KafkaStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka-stream/kafka-stream.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kafka-twitter-producer/src/main/java/com/github/aman/kafka/twitter/TwitterProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka-stream/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka-twitter-consumer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kafka-twitter-producer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -82,6 +148,8 @@
         <option value="$PROJECT_DIR$/../kafka/kafka_first_project/pom.xml" />
         <option value="$PROJECT_DIR$/../kafka/kafka_first_project/Kafka-twitter-producer/src/main/java/twitter/TwitterProducer.java" />
         <option value="$PROJECT_DIR$/../kafka/kafka_first_project/kafka-twitter-consumer/src/main/java/com/github/aman/kafka/twitter/ElasticSearchConsumer.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/kafka-stream/src/main/java/com.github.aman.kafka.twitter/KafkaStream.java" />
       </list>
     </option>
   </component>
@@ -135,6 +203,129 @@
               <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.github.aman.kafkaStream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="twitter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Kafka-twitter-producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Kafka-twitter-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Kafka-twitter-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Kafka-twitter-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Kafka-twitter-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="twitter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-twitter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafka-twitter-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -143,24 +334,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafka_twitter_project" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../kafka/kafka_learning_project" />
-      <recent name="$PROJECT_DIR$/../kafka" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Kafka-basics/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="twitter" />
       <recent name="com.github.aman.kafka.twitter" />
       <recent name="com.github.aman.kafka.tutorial1" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Kafka-basics/src/main/java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kafka-stream/src/main/java/com.github.aman.kafkaStream" />
+      <recent name="$PROJECT_DIR$/kafka-stream/src/main/java" />
+      <recent name="$PROJECT_DIR$/kafka-stream/src/main/java/com.github.aman.kafka.twitter" />
+      <recent name="$PROJECT_DIR$/../kafka/kafka_learning_project" />
+      <recent name="$PROJECT_DIR$/../kafka" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -175,7 +370,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwitterProducer (1)">
+  <component name="RunManager" selected="Application.KafkaStream">
     <configuration name="ElasticSearchConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.aman.kafka.twitter.ElasticSearchConsumer" />
       <module name="kafkatwitterconsumer" />
@@ -190,8 +385,8 @@
       </method>
     </configuration>
     <configuration name="KafkaStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.aman.kafkaStream.KafkaStream" />
-      <module name="kafkastream" />
+      <option name="MAIN_CLASS_NAME" value="com.github.aman.kafka.twitter" />
+      <module name="kafka-stream" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.github.aman.kafkaStream.*" />
@@ -228,7 +423,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwitterProducer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TwitterProducer (1)" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="twitter.TwitterProducer" />
       <module name="Kafka-twitter-producer" />
       <extension name="coverage">
@@ -289,15 +484,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TwitterProducer (1)" />
       <item itemvalue="Application.ElasticSearchConsumer" />
       <item itemvalue="Application.KafkaStream" />
       <item itemvalue="Application.ProducerDemo (1)" />
       <item itemvalue="Application.ProducerDemoKey" />
-      <item itemvalue="Application.TwitterProducer (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwitterProducer (1)" />
         <item itemvalue="Application.KafkaStream" />
         <item itemvalue="Application.ElasticSearchConsumer" />
         <item itemvalue="Application.ProducerDemoKey" />
@@ -330,7 +524,7 @@
   <component name="ToolWindowManager">
     <frame x="34" y="-4" width="1332" height="772" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49854228" visible="true" weight="0.33050847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49854228" visible="true" weight="0.33050847" />
       <window_info id="Structure" order="1" sideWeight="0.50145775" side_tool="true" weight="0.31510016" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,14 +533,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840596" weight="0.36588922" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49768874" visible="true" weight="0.36588922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32944608" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49922958" weight="0.29446065" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50159407" side_tool="true" weight="0.36231884" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32069972" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5023112" side_tool="true" weight="0.36588922" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32069972" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3265306" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -457,6 +651,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kafka-twitter-producer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kafka-twitter-producer/src/main/java/com/github/aman/kafka/twitter/TwitterProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-twitter-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-stream/src/main/java/com.github.aman.kafka.twitter/KafkaStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-stream/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-stream/kafka-stream.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-stream/src/main/java/com.github.aman.kafkaStream/KafkaStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
