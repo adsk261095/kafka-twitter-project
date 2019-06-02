@@ -1,4 +1,4 @@
-package com.github.aman.kafkaStream;
+package com.github.aman.kafka.twitter;
 
 import com.google.gson.JsonParser;
 import org.apache.kafka.common.serialization.Serdes;
