@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafkastream" />
+        <module name="kafka-stream" />
+        <module name="kafka-twitter-consumer" />
+        <module name="kafkatwitterconsumer" />
+        <module name="Kafkatwitterproducer" />
+        <module name="Kafka-twitter-producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Kafkabasics" target="8" />
+      <module name="sparkJava" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
