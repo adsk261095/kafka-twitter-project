@@ -59,10 +59,10 @@ kafka-streams Application ID : kafka-streams-twitter-1
 In this project I am dumping the filtered tweets into an open source Elastic Search DB called Bonsai.io
 
 Since in this project I am using kafka standalone cluster on my local machine so by defalut it comes with just a single Broker inside the kafka cluster.
-So all the topics that we create and their resepct parition will reside on the same single broker with the defalut replication factor for the topics set to 1.
+So all the topics that we create and their resepective parition will reside on the same single broker with the defalut replication factor for the topics set to 1.
 So this kind of a system is good for learning and skill enhancement purpose but it is not used in a real world scenario, since it in not fault tolerant.
 
-
+PLease refer to wiki for more architectural details.
 
 
 
